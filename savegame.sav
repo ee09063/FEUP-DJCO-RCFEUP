@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Upgrades>
+    <Upgrade id="0" level="3" />
+    <Upgrade id="1" level="3" />
+    <Upgrade id="2" level="2" />
+  </Upgrades>
+  <Achievements>
+    <Achievement id="0" status="1" />
+    <Achievement id="1" status="0" />
+    <Achievement id="2" status="1" />
+  </Achievements>
+</Document>
